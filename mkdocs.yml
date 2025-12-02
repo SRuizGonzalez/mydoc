@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Mi primer sitio MKDOCS
+site_url: https://github.com/SRuizGonzalez/mydoc
+site_dir: /docs
+docs_dir: /paginas
+
+nav: 
+- Home: index.md
+- Varias Cosas: varios.md 
+- Otros: otros.md
+theme: readthedocs
