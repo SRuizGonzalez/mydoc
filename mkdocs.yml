@@ -5,5 +5,4 @@ site_dir: /docs
 
 nav: 
 - Home: index.md
-- Varias Cosas: Mis.md
 theme: readthedocs
