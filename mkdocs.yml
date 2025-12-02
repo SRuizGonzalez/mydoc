@@ -4,5 +4,5 @@ site_dir: /docs
 
 
 nav: 
-- Home: index.md
+- Home: index.md Ejercicio1.md Ejercicio2.md Ejercicio3.md
 theme: readthedocs
