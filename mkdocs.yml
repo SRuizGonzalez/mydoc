@@ -1,7 +1,7 @@
 site_name: Mi primer sitio MKDOCS
 site_url: https://github.com/SRuizGonzalez/mydoc
 site_dir: /docs
-docs_dir: /paginas
+
 
 nav: 
 - Home: index.md
