@@ -3,8 +3,10 @@ site_url: https://github.com/SRuizGonzalez/mydoc
 site_dir: /docs
 
 
-nav: index.md 
-Ejercicio1: Ejercicio1.md 
-Ejercicio2: Ejercicio2.md
-Ejercicio3: Ejercicio3.md
+nav: 
+- Home: index.md 
+- Ejercicio1: Ejercicio1.md
+- Ejercicio2: Ejercicio2.md
+- Ejercicio3: Ejercicio3.md
+
 theme: readthedocs
